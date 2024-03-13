@@ -1,0 +1,14 @@
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Delegate-HomeWorks\Delegate-HomeWorks\bin\Debug\net6.0\Delegate-HomeWorks.exe
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Delegate-HomeWorks\Delegate-HomeWorks\bin\Debug\net6.0\Delegate-HomeWorks.deps.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Delegate-HomeWorks\Delegate-HomeWorks\bin\Debug\net6.0\Delegate-HomeWorks.runtimeconfig.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Delegate-HomeWorks\Delegate-HomeWorks\bin\Debug\net6.0\Delegate-HomeWorks.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Delegate-HomeWorks\Delegate-HomeWorks\bin\Debug\net6.0\Delegate-HomeWorks.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Delegate-HomeWorks\Delegate-HomeWorks\obj\Debug\net6.0\Delegate-HomeWorks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Delegate-HomeWorks\Delegate-HomeWorks\obj\Debug\net6.0\Delegate-HomeWorks.AssemblyInfoInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Delegate-HomeWorks\Delegate-HomeWorks\obj\Debug\net6.0\Delegate-HomeWorks.AssemblyInfo.cs
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Delegate-HomeWorks\Delegate-HomeWorks\obj\Debug\net6.0\Delegate-HomeWorks.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Delegate-HomeWorks\Delegate-HomeWorks\obj\Debug\net6.0\Delegate-HomeWorks.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Delegate-HomeWorks\Delegate-HomeWorks\obj\Debug\net6.0\refint\Delegate-HomeWorks.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Delegate-HomeWorks\Delegate-HomeWorks\obj\Debug\net6.0\Delegate-HomeWorks.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Delegate-HomeWorks\Delegate-HomeWorks\obj\Debug\net6.0\Delegate-HomeWorks.genruntimeconfig.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Delegate-HomeWorks\Delegate-HomeWorks\obj\Debug\net6.0\ref\Delegate-HomeWorks.dll
