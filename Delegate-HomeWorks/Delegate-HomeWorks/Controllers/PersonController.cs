@@ -19,9 +19,9 @@ namespace Delegate_HomeWorks.Controllers
         public void SearchForName()
         {
             var response = _personService.SearchForName(m => m.Name.Contains("E"));
-            foreach (var customer in response)
+            foreach (var item in response)
             {
-                Console.WriteLine(customer.Name + "-" + customer.Surname);
+                Console.WriteLine(item.Name + "-" + item.Surname);
             }
 
 
